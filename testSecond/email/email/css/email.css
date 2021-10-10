@@ -48,7 +48,7 @@ body{
 }
 .logo {
 	display: flex;
-	padding: 30px 0 0 10px;
+	padding: 30px 0 0 0px;
 }
 .img {
 	padding: 10px 4px 0px 0px;
@@ -90,7 +90,7 @@ color: #007CC0;
 @media (max-width: 980px) {
 	.logo {
 	display: flex;
-	padding: 25 0 0 10px;
+	padding: 25px 0 0 10px;
 	}
 	.email {
 	margin: 148px 45px 12px 45px;
